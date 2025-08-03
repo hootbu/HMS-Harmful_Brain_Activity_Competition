@@ -1,4 +1,4 @@
-# Harvard Medical School - Harmful Brain Activity Classification Project
+# Harvard Medical School - Harmful Brain Activity Classification Research Code Competition
 ###### Created by Emir Yorgun
 
 ## Project Overview
