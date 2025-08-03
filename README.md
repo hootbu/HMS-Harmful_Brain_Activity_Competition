@@ -1,4 +1,4 @@
-# HMS - Harmful Brain Activity Classification Project
+# Harvard Medical School - Harmful Brain Activity Classification Project
 ###### Created by Emir Yorgun
 
 ## Project Overview
